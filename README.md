@@ -1,5 +1,13 @@
 <div align="center">
 
+> Someone who used to be my friend once said:
+>
+> *"La musica perfetta è quella che segue il ritmo del tuo cervello"*
+> 
+> (the perfect music is the one that follows your brain's rhythm)
+>
+> I can't build something that does exactly that (yet), but for now the music will at least follow your workflow.
+
 ![KEYFLOW — Turn every keystroke into a beat](docs/banner.png)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/usualalteration)
